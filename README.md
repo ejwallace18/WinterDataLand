@@ -7,11 +7,3 @@ This project will anaylze Billboard Hot Weekly Charts & List of popular Christma
 
 ## DataSets
 [List of popular Christmas singles in the United States.csv](https://github.com/ejwallace18/WinterDataLand/files/7689475/List.of.popular.Christmas.singles.in.the.United.States.csv)
-
-
-
-
-## Carol Table
-
-## Top 100 Table
-
